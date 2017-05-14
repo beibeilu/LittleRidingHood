@@ -12,6 +12,7 @@ Beyond this point, all is possible and still under construction. :)
 #### Progress
 
 [Thoughts board](https://github.com/beibeilu/LittleRidingHood/projects/1)
+
 [Preliminary visual - which needs a major do-over](https://www.behance.net/gallery/35891163/Riding-Hood)
 
 #### Inspiration
